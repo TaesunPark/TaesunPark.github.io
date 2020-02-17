@@ -1,9 +1,10 @@
+root: /octo-5
 title:              Clean Blog
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://blackrockdigital.github.io"
+baseurl:            /
+url:                https://TaesunPark.github.io
 
 # Social Profiles
 twitter_username:   SBootstrap
